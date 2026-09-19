@@ -43,8 +43,7 @@ Focused on performance, optimization and open-source.
 
 ### 🔗 Connect
 
-<a href="https://x.com/techoxium">X</a> • 
-<a href="https://instagram.com/techoxium">Instagram</a>
+<a href="info@techoxium.com">E-mail</a>
 
 </div>
 
