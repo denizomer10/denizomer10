@@ -1,52 +1,42 @@
-<div align="center">
+# Omer Deniz
 
-# Hi There Welcome to my Github Page 👋
+I build practical software across systems, mobile, and web. My projects range from Android kernel and application development to operational tools and blockchain experiments, with a particular interest in performance, reliability, and thoughtful user experiences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=4DA3FF&center=true&vCenter=true&width=500&lines=Linux+%E2%80%A2+Hardware+%E2%80%A2+Systems;Real+Testing+%E2%80%A2+Real+Setups;Optimization+is+everything" />
+🌐 **Website:** [techoxium.com](https://techoxium.com) · ✉️ **Email:** [info@techoxium.com](mailto:info@techoxium.com)
 
-</div>
+## Featured projects
 
----
+### [RailCtrl](https://github.com/denizomer10/railctrl-main)
+A bilingual railway-operations web application for coordinating station and field workflows. It brings together operational records, work permits, shift planning, lost-property tracking, staff tools, and administration.
 
-<div align="center">
+**Built with:** Astro, TypeScript, Node.js, and SQLite
 
-### 🧠 About
+### [OxiKernel](https://github.com/denizomer10/OxiKernel)
+An Android kernel project for the Samsung Galaxy A50 (Exynos 9610), focused on AOSP-based ROMs. It explores kernel configuration, device support, performance tuning, and build automation.
 
-Focused on performance, optimization and open-source.
+**Built with:** C, ARM assembly, and shell tooling
 
-</div>
+### [OxiCalc](https://github.com/denizomer10/OxiCalc)
+A Material You calculator project designed for Android phones, tablets, and Wear OS. It features shared calculation logic, localized interfaces, and on-device history storage.
 
----
+**Built with:** Kotlin and Jetpack Compose
 
-<div align="center">
+### [MsStoreInstaller](https://github.com/denizomer10/MsStoreInstaller)
+Windows command-line scripts for installing or removing Microsoft Store on Windows 10/11 LTSC editions.
 
-### 🚀 Projects
+**Built with:** Windows Batch
 
-⚙️ System tools & automation  
-🧪 Experimental OS ideas (OxiOS)  
+## Other work
 
-</div>
+- [RustyStore Inventory Management System](https://github.com/denizomer10/RustyStore-InventoryManagementSystem) — a Rust-based inventory management project covering products, transactions, authentication, and reporting.
+- [Basic Voting DApp](https://github.com/denizomer10/basic_voting_dapp) — a learning project exploring proposal creation and voting with the Andromeda Protocol.
+- [StakeX EGLD Staking Platform](https://github.com/denizomer10/StakeXEGLDStakingPlatform) — a MultiversX staking prototype with a Rust smart contract and TypeScript frontend.
+- [Calculate Euclidean Distance](https://github.com/denizomer10/CalculateEuclideanDistance) — a small Python project for calculating Euclidean distance.
 
----
+## Technologies
 
-<div align="center">
+Across these projects, I work with **Rust, C, Kotlin, TypeScript, Python, Linux, Android, Astro, and blockchain development tools**.
 
-### 🌐 Techoxium
+## Contact
 
-<a href="https://techoxium.com">techoxium.com</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔗 Connect
-
-<a href="info@techoxium.com">E-mail</a>
-
-</div>
-
----
-
-</div>
+For questions or collaboration, visit [techoxium.com](https://techoxium.com) or email [info@techoxium.com](mailto:info@techoxium.com).
